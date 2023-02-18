@@ -1,0 +1,24 @@
+.goal {
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem;
+    background: #8b005d;
+    border-radius: 0.5rem;
+    color: white;
+    letter-spacing: 0.02rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.svg-inline--fa {
+    cursor: pointer;
+}
+.svg-inline--fa:hover {
+    color: red;
+}
